@@ -236,19 +236,19 @@ Covers:
 Include the following in your submission:
 
 1. Swagger UI (`/docs`) showing endpoints.  
-   ![Swagger UI](/workspaces/intent-classification-fastapi/ML/eval_outputs/images/interface.PNG)
+   ![Swagger UI](ML/eval_outputs/images/interface.PNG)
 
 2. `/api/health` returning `{"status": "ok"}`.  
-   ![Health Endpoint](/workspaces/intent-classification-fastapi/ML/eval_outputs/images/health.PNG)
+   ![Health Endpoint](ML/eval_outputs/images/health.PNG)
 
 3. `/api/classify` result with intent + confidence.  
-   ![Classify Endpoint](/workspaces/intent-classification-fastapi/ML/eval_outputs/images/classify2.PNG)
+   ![Classify Endpoint](ML/eval_outputs/images/classify2.PNG)
 
 4. `/api/classify/batch` with multiple queries.  
-   ![Batch Classify](/workspaces/intent-classification-fastapi/ML/eval_outputs/images/batch2.PNG)
+   ![Batch Classify](ML/eval_outputs/images/batch2.PNG)
 
 5. `/api/model/info` showing model type and classes.  
-   ![Model Info](/workspaces/intent-classification-fastapi/ML/eval_outputs/images/info2.PNG)
+   ![Model Info](ML/eval_outputs/images/info2.PNG)
 
 6. **For Confusion matrix, Confidence_ Distribution, Learning Curve, classification performance charts etc refer to the directory, eval_outputs.**
 7. **Status Codes**
