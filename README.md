@@ -250,7 +250,7 @@ Include the following in your submission:
 5. `/api/model/info` showing model type and classes.  
    ![Model Info](ML/eval_outputs/images/info2.PNG)
 
-6. **For Confusion matrix, Confidence_ Distribution, Learning Curve, classification performance charts etc refer to the directory, eval_outputs.**
+6. **For Confusion matrix, Confidence_ Distribution, Learning Curve, classification performance charts etc refer to the directory, (ML/eval_outputs/images/...)**
 7. **Status Codes**
 * INFO:     182.184.143.105:0 - "GET / HTTP/1.1" 404 Not Found
 * INFO:     182.184.143.105:0 - "GET /favicon.ico HTTP/1.1" 404 Not Found
