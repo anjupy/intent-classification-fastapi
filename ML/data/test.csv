@@ -1,0 +1,34 @@
+text,intent
+is there any traffic on us,GetTrafficInformation
+table for two at nobu new york tonight,BookRestaurant
+book a table for todays lunch at eggys diner for people,BookRestaurant
+book a table at an italian restaurant nearby for dinner with people,BookRestaurant
+book a table for four people at mondrian soho for pm,BookRestaurant
+navigate me to empire state building using the shortest way,GetDirections
+find me a romantic restaurant that serves good expensive wine near my girlfriends work,SearchPlace
+i want to eat some fried chicken any suggestions,SearchPlace
+share my estimated time of arrival with my mother,ShareETA
+whats happening this week at smalls jazz club,GetPlaceDetails
+give me steves address in manhattan,GetPlaceDetails
+make a reservation for people for todays lunch at daniel,BookRestaurant
+directions to la guardia airport using waze,GetDirections
+what will the weather be like when i get out of my afternoon meeting,GetWeather
+is three dots and a dash cheaper than lost lake,ComparePlaces
+directions to my beach house avoiding tolls,GetDirections
+shoud i expect traffic between broadway and prince street,GetTrafficInformation
+whats the weather like in bordeaux,GetWeather
+book for at nobu for tomorrow evening,BookRestaurant
+book a table at a restaurant near times square for people tomorrow night,BookRestaurant
+get an uber to go to my dinner tonight,RequestRide
+find a store near sias place where i can buy champagne,SearchPlace
+whats the cheapest place between galli and the smile,ComparePlaces
+share my current location with jim,ShareCurrentLocation
+book a cab,RequestRide
+book an uber to my next meeting,RequestRide
+whats the weather like near my upcoming event,GetWeather
+send my eta to the guests of my apartment,ShareETA
+show me photos of the bar im going to for rands birthday,GetPlaceDetails
+when is raos the most crowded,GetPlaceDetails
+how do i go to montauk avoiding tolls,GetDirections
+is there valet parking at kang ho dong baekjeong,GetPlaceDetails
+whats the weather like at my parents,GetWeather

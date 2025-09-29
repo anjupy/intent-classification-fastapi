@@ -1,0 +1,12 @@
+{
+  "GetWeather": 0.793939393939394,
+  "ComparePlaces": 1.7466666666666666,
+  "GetPlaceDetails": 0.655,
+  "BookRestaurant": 0.46785714285714286,
+  "GetTrafficInformation": 1.6375,
+  "RequestRide": 1.2476190476190476,
+  "GetDirections": 0.9357142857142857,
+  "ShareETA": 1.4555555555555555,
+  "ShareCurrentLocation": 2.0153846153846153,
+  "SearchPlace": 1.190909090909091
+}

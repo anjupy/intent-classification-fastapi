@@ -1,0 +1,263 @@
+text,intent
+can i walk to my next meeting,GetWeather
+is vertigo sky lounge more expensive than the bar i usually go to in new york,ComparePlaces
+how far is the nomad bar,GetPlaceDetails
+book me and my sister a spot at the milk bar place near the hotel she stays at in midtown,BookRestaurant
+whats the best between le bain and marquee,ComparePlaces
+is there traffic jam from here to brooklyn bridge,GetTrafficInformation
+book an uber to home,RequestRide
+book me a table for people at the sushi place next to the show tomorrow night,BookRestaurant
+i want to go to boston with the quickest itinerary,GetDirections
+send my eta to the girl im supposed to have dinner with,ShareETA
+book a table at seven hills for people with a nice view,BookRestaurant
+i want the weather in paris,GetWeather
+what will the weather be like in london next week,GetWeather
+show me the menu of the restaurant i booked for tonight,GetPlaceDetails
+id like a table in a peaceful restaurant around times square,BookRestaurant
+show me directions to my hotel,GetDirections
+send my time of arrival to nina,ShareETA
+should i have an umbrella with me tomorrow,GetWeather
+how crowded is per se right now,GetPlaceDetails
+what will the weather be like tomorrow morning,GetWeather
+fastest way to go to my next meeting,GetDirections
+can i park at gershwin theatre,GetPlaceDetails
+i need a reservation for five people at galli for friday night,BookRestaurant
+share my time of arrival with my airbnb host,ShareETA
+book a table at the best chinese restaurant in town for todays lunch,BookRestaurant
+walking directions to my christmas party with citymapper,GetDirections
+share my current location,ShareCurrentLocation
+are there good tips to know when going to the modern,GetPlaceDetails
+send my current location to the friends im meeting with,ShareCurrentLocation
+quickest directions to go pick up my son at soccer practice,GetDirections
+can you make a reservation at a lebanese restaurant nearby for lunch party of,BookRestaurant
+show me veggie restaurants nearby,SearchPlace
+make a reservation for breakfast at batter berries tomorrow,BookRestaurant
+get me a spot at ippudo for lunch,BookRestaurant
+share my location with robert for the next min,ShareCurrentLocation
+book a table for me and my girlfriend in a romantic restaurant for valentines day,BookRestaurant
+book me a table for at delmonicos around pm this friday,BookRestaurant
+order a cab for people,RequestRide
+book a table for sophie and me at the red lobster tonight,BookRestaurant
+show me the way to go to greene street,GetDirections
+whats the address of the place where i was yesterday night,GetPlaceDetails
+driving directions to tavern on the green,GetDirections
+is it going to rain tomorrow,GetWeather
+book a taxi to go to sebastians,RequestRide
+show me the forecast for my upcoming weekend,GetWeather
+who is playing tonight at the madison square garden,GetPlaceDetails
+i need a taxi to catch my flight tomorrow morning,RequestRide
+show me directions to my next meeting avoiding traffic,GetDirections
+show me the weather forecast for my upcoming trip to los angeles,GetWeather
+give me transit directions from grand central to brooklyn bridge,GetDirections
+always share my location with lori,ShareCurrentLocation
+need a table for,BookRestaurant
+is it going to be sunny next week,GetWeather
+should i expect traffic from here to kennedy international airport,GetTrafficInformation
+send a message to my boss with my eta,ShareETA
+book me a table for at delmonicos,BookRestaurant
+send my location to my husband,ShareCurrentLocation
+show me directions to jersey city avoiding the highway,GetDirections
+i want a table for friday pm for people at katzs delicatessen,BookRestaurant
+what is the most expensive restaurant between per se and raos,ComparePlaces
+directions to tulsa with road,GetDirections
+book a table for people at the restaurant i went to last week,BookRestaurant
+transit directions to barcelona wine bar,GetDirections
+send my current location to my father,ShareCurrentLocation
+book a lyft car to go to greene street,RequestRide
+book me a ride at my current location,RequestRide
+what time does employees only close,GetPlaceDetails
+give me directions to my parents place avoiding toll roads,GetDirections
+find me the closest theatre for tonight,SearchPlace
+send my eta to my girlfriend,ShareETA
+get a lyft car at scotts place,RequestRide
+i want reservations to grab brunch for in hells kitchen tomorrow,BookRestaurant
+whats loris home address,GetPlaceDetails
+what will the weather be like when i land in paris,GetWeather
+find me a table for four for dinner tonight,BookRestaurant
+find the best restaurants near my airbnb that serve brunch all day,SearchPlace
+send my location,ShareCurrentLocation
+tell valery how long its gonna take to join her,ShareETA
+is there traffic from work to gym,GetTrafficInformation
+is there wifi at the coffee place where im meeting with john,GetPlaceDetails
+is the swan oyster depot cashonly,GetPlaceDetails
+it is a beautiful day for a walk,GetWeather
+cycling directions to chelsea market,GetDirections
+send my current location to anna,ShareCurrentLocation
+get a taxi to emmits irish pub,RequestRide
+share my eta with mary jane,ShareETA
+book a table near my london hotel next wednesday evening,BookRestaurant
+can i pay by credit card at boom boom room,GetPlaceDetails
+get me a table at delmonicos next monday at pm,BookRestaurant
+i need a cab to go to work,RequestRide
+directions to jfk airport at am,GetDirections
+show me the parks with swings and pony rides around my aunts place,SearchPlace
+find a taxi,RequestRide
+give me the address of state grill and bar,GetPlaceDetails
+how far am i from the guggenheim museum,GetPlaceDetails
+whats the phone number of the dead rabbit,GetPlaceDetails
+whats planned at slims tonight,GetPlaceDetails
+is there any uber around,RequestRide
+show me the top french restaurants in manhattan,SearchPlace
+hows traffic to go to my hotel,GetTrafficInformation
+is it cold outside,GetWeather
+is there traffic on the us portion im going to take to go to my client meeting,GetTrafficInformation
+directions to disneyworld avoiding traffic,GetDirections
+see if theres a table outside for noon at that fried chicken restaurant i like,BookRestaurant
+send a message to michael with my eta,ShareETA
+i want a taxi right now,RequestRide
+what will the weather be like at jos place this afternoon,GetWeather
+whats the weather like in paris new york and chicago,GetWeather
+i need a taxi for to go to audrey and sams wedding,RequestRide
+i need a taxi in minutes at th avenue,RequestRide
+show me the way to go to work,GetDirections
+send a message to john to tell him when i get there,ShareETA
+share my location with my office manager until noon,ShareCurrentLocation
+get me a table at a restaurant near emilys place for tomorrow pm,BookRestaurant
+is my favorite bar better than the donut pub,ComparePlaces
+what will the weather be like at my airbnb this week end,GetWeather
+what is the cheapest restaurant between balthazar and lombardis,ComparePlaces
+will it rain in the next minutes,GetWeather
+is my airbnb closer than johns hotel,ComparePlaces
+book a table at the nearest sushi restaurant for for pm,BookRestaurant
+is there a parking at my hotel,GetPlaceDetails
+is there a childrens menu at the standard grill,GetPlaceDetails
+how windy will it be tomorrow,GetWeather
+get a taxi to the nearest japanese restaurant,RequestRide
+show me the directions from the la county museum to santa monica,GetDirections
+make a reservation for people for todays lunch at a starbucks nearby,BookRestaurant
+i want to see photos of the place were going to tonight,GetPlaceDetails
+where can i get tickets for a concert at blue note,GetPlaceDetails
+show me the way to rands birthday party by car,GetDirections
+book a table for two people at a restaurant near work,BookRestaurant
+get me a table at din tai fung for the th of december at,BookRestaurant
+are there activities for children at hard rock cafe,GetPlaceDetails
+are there any accidents from home to work,GetTrafficInformation
+how far is frying pan from the highline ballroom,GetPlaceDetails
+find me a good expensive japanese restaurant near work,SearchPlace
+get me a table at a good deli near mission dolores park for lunch,BookRestaurant
+whats the best hotel between soho grand and paramount hotel,ComparePlaces
+share my eta,ShareETA
+walking directions from home to my halloween party stopping by a wine store,GetDirections
+is it windy today,GetWeather
+what will the weather be like from home to jos place,GetWeather
+i want a reservation to get drinks after class tomorrow for,BookRestaurant
+what are the fanciest clubs in new york,SearchPlace
+show me the butchers daughters menu,GetPlaceDetails
+is there traffic on th avenue and west th street,GetTrafficInformation
+are there some tips to know when going to battery park,GetPlaceDetails
+share my eta with my data scientist,ShareETA
+show me the best museums to visit near my london airbnb,SearchPlace
+get a cab at my place right now,RequestRide
+show me the forecast for new orleans,GetWeather
+book a table at galli for people tonight,BookRestaurant
+is there a table for boozy brunch at around nearby,BookRestaurant
+get me a ride to the airport,RequestRide
+i need reservations at quince at,BookRestaurant
+get me directions to johns place if i leave at pm,GetDirections
+share my location with my boyfriend until i get home,ShareCurrentLocation
+how expensive is the best french restaurant near work,GetPlaceDetails
+send my eta to the guy im meeting with,ShareETA
+whats the phone number of my hotel in chicago next month,GetPlaceDetails
+book for people at per se for tuesday evening,BookRestaurant
+whats the price range for a dinner at galli,GetPlaceDetails
+find me a salad bar i can go to for my lunch meeting,SearchPlace
+can i have a table at the russian tea room for pm,BookRestaurant
+is it cold outside,GetWeather
+how much is a dinner at la chine,GetPlaceDetails
+find me a stars restaurant in los angeles,SearchPlace
+book a table at saddle peak lodge for my diner with friends tonight,BookRestaurant
+is my hotel in nyc for this week better than the hotel i stayed in when i was in chicago,ComparePlaces
+share my estimated time of arrival with lily,ShareETA
+is the weather good for a walk today,GetWeather
+share my eta with the guy who just called me,ShareETA
+whats the closest pizza restaurant around here,SearchPlace
+is there traffic on my way to the gym,GetTrafficInformation
+show me photos of mondrian soho,GetPlaceDetails
+is waldorf astoria more luxurious than the four seasons,ComparePlaces
+order a taxi for tomorrow am,RequestRide
+find me an outdoor table at five leaves for,BookRestaurant
+is there a place similar to per se in williamsburg,SearchPlace
+whats the best irish pub in hells kitchen,SearchPlace
+whats the cheapest between the two restaurants the closest to my hotel,ComparePlaces
+show me the fastest itinerary to my airbnb on a friday night,GetDirections
+get me directions to las vegas avoiding toll roads,GetDirections
+should i expect any traffic to go meet my friends tonight,GetTrafficInformation
+wheres irving plaza located,GetPlaceDetails
+is the road to work congested,GetTrafficInformation
+any accidents to expect to go to my cousins place,GetTrafficInformation
+need a table for lunch to eat steak near penn station,BookRestaurant
+whats the cheapest place between my favorite bar and employees only,ComparePlaces
+book a table at chops lobster bar for people at pm,BookRestaurant
+is it raining right now,GetWeather
+make a reservation for at the finest restaurant in the area where i was yesterday afternoon,BookRestaurant
+which restaurant is the cheapest shake shack or five guys,ComparePlaces
+does cafe gitane have wifi,GetPlaceDetails
+is soho grand better than paramount,ComparePlaces
+need a reservation for brunch for in williamsburg near the bridge,BookRestaurant
+hows the traffic from here to jos place,GetTrafficInformation
+i want to know if there is traffic to go to my upcoming meeting,GetTrafficInformation
+i want to find a reservation at an old red sauce joint at,BookRestaurant
+share my location with hillarys sister,ShareCurrentLocation
+book a table at the standard grill for four people for the day after tomorrow at pm,BookRestaurant
+whats the weather like in days,GetWeather
+book a restaurant for near my morning meeting tomorrow at pm,BookRestaurant
+will it rain tomorrow near my all day event,GetWeather
+book a table for at tavern on the green for pm,BookRestaurant
+what time does pouring ribbons open tonight,GetPlaceDetails
+show me the closest restaurants with all you can eat buffets,SearchPlace
+share with franz my eta,ShareETA
+share my eta with the snips team,ShareETA
+is pates et traditions cash only,GetPlaceDetails
+hows the road on the th avenue,GetTrafficInformation
+give me the phone number of the place im going to today,GetPlaceDetails
+can you find me a ride at this hour,RequestRide
+hows the traffic from here to central park,GetTrafficInformation
+show me the fastest itinerary to go to williamsburg,GetDirections
+can i take my bike to go to work today,GetWeather
+table for a group of near west village tomorrow go,BookRestaurant
+what are the opening hours of please dont tell,GetPlaceDetails
+share my location with my uber driver,ShareCurrentLocation
+whats it like outside,GetWeather
+whats todays menu at the water club,GetPlaceDetails
+find me a coffee place similar to starbucks that has gluten free food,SearchPlace
+whats the closest between jos and loris place,ComparePlaces
+book a table for people at a restaurant that serve tapas and wine for tonight,BookRestaurant
+where can i eat the best burger in soho,SearchPlace
+book a table for people at mr donahues for tomorrows lunch,BookRestaurant
+book a table for people at the restaurant im used to going to every week,BookRestaurant
+give me the address of the biggest wallmart in boston area,GetPlaceDetails
+is the view more expensive than masa,ComparePlaces
+whats the weather like from new york to boston,GetWeather
+find me a place that sells burritos in south harlem,SearchPlace
+whats the weather like at jos place right now,GetWeather
+find me a restaurant similar to the one i went to yesterday evening,SearchPlace
+order a taxi,RequestRide
+how crowded is the bar near my place,GetPlaceDetails
+find me the cheapest seafood restaurant near the golden bridge,SearchPlace
+what will the weather be like from am to pm in central park,GetWeather
+share my arrival time with juan carlos,ShareETA
+cycling directions to my surf lesson at am,GetDirections
+should i take a rain coat today,GetWeather
+share my eta with jo,ShareETA
+how do i go back home,GetDirections
+make a reservation at delmonicos on saturday pm for people,BookRestaurant
+book a table for friday pm for people at katzs delicatessen,BookRestaurant
+share my location to mum until i get to school,ShareCurrentLocation
+how much does it cost to go to disneyland,GetPlaceDetails
+directions to joes pub,GetDirections
+book a restaurant for brunch next sunday,BookRestaurant
+does the view has reserved parking,GetPlaceDetails
+book a table for four people at tapestry for pm tonight,BookRestaurant
+find the top family attractions in hollywood not far from angies place,SearchPlace
+what is the temperature tomorrow morning,GetWeather
+find me the finest sushi restaurant in the area of my next meeting,SearchPlace
+should i take an umbrella to walk to my dinner,GetWeather
+book a table at an american restaurant for thanksgiving,BookRestaurant
+we are a party of people and we want to book a table at seven hills for sunset,BookRestaurant
+i need an uber right now,RequestRide
+book me a table for pm at a restaurant with wifi near my airbnb,BookRestaurant
+book a table at joans on third for my family reunion on saturday,BookRestaurant
+any traffic problems to go to my dinner,GetTrafficInformation
+bicycling directions to millenium park,GetDirections
+find me a brunch spot in lower manhattan,SearchPlace
+i want a reservation for at alinea,BookRestaurant

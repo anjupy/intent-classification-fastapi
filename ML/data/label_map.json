@@ -1,0 +1,12 @@
+{
+  "BookRestaurant": 0,
+  "ComparePlaces": 1,
+  "GetDirections": 2,
+  "GetPlaceDetails": 3,
+  "GetTrafficInformation": 4,
+  "GetWeather": 5,
+  "RequestRide": 6,
+  "SearchPlace": 7,
+  "ShareCurrentLocation": 8,
+  "ShareETA": 9
+}

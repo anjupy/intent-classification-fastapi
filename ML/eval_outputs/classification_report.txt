@@ -1,0 +1,16 @@
+                       precision    recall  f1-score   support
+
+       BookRestaurant       0.88      1.00      0.93         7
+        ComparePlaces       1.00      0.50      0.67         2
+        GetDirections       1.00      1.00      1.00         4
+      GetPlaceDetails       0.83      1.00      0.91         5
+GetTrafficInformation       1.00      1.00      1.00         2
+           GetWeather       1.00      1.00      1.00         4
+          RequestRide       1.00      1.00      1.00         3
+          SearchPlace       1.00      0.67      0.80         3
+ ShareCurrentLocation       1.00      1.00      1.00         1
+             ShareETA       1.00      1.00      1.00         2
+
+             accuracy                           0.94        33
+            macro avg       0.97      0.92      0.93        33
+         weighted avg       0.95      0.94      0.93        33

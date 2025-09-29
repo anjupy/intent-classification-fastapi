@@ -1,0 +1,329 @@
+text,intent
+share my location with hillarys sister,ShareCurrentLocation
+send my current location to my father,ShareCurrentLocation
+share my current location with jim,ShareCurrentLocation
+send my location to my husband,ShareCurrentLocation
+send my location,ShareCurrentLocation
+always share my location with lori,ShareCurrentLocation
+share my location with my boyfriend until i get home,ShareCurrentLocation
+send my current location to anna,ShareCurrentLocation
+share my location with steve for days,ShareCurrentLocation
+share my location to mum until i get to school,ShareCurrentLocation
+share my location with my office manager until noon,ShareCurrentLocation
+share my location with my uber driver,ShareCurrentLocation
+share my location with robert for the next min,ShareCurrentLocation
+share my location with jo until pm,ShareCurrentLocation
+share my current location,ShareCurrentLocation
+send my current location to the friends im meeting with,ShareCurrentLocation
+whats the best hotel between soho grand and paramount hotel,ComparePlaces
+whats the cheapest between the two restaurants the closest to my hotel,ComparePlaces
+whats the closest between jos and loris place,ComparePlaces
+is my airbnb closer than johns hotel,ComparePlaces
+is the view more expensive than masa,ComparePlaces
+whats the best between le bain and marquee,ComparePlaces
+is vertigo sky lounge more expensive than the bar i usually go to in new york,ComparePlaces
+id like to know whether galli is more expensive than raos,ComparePlaces
+is my favorite bar better than the donut pub,ComparePlaces
+is waldorf astoria more luxurious than the four seasons,ComparePlaces
+whats the cheapest place between my favorite bar and employees only,ComparePlaces
+is my hotel in nyc for this week better than the hotel i stayed in when i was in chicago,ComparePlaces
+is soho grand better than paramount,ComparePlaces
+whats the cheapest place between galli and the smile,ComparePlaces
+is three dots and a dash cheaper than lost lake,ComparePlaces
+what is the closest theatre between belasco theatre and majestic theatre,ComparePlaces
+what is the most expensive restaurant between per se and raos,ComparePlaces
+which restaurant is the cheapest shake shack or five guys,ComparePlaces
+what is the cheapest restaurant between balthazar and lombardis,ComparePlaces
+show me photos of the bar im going to for rands birthday,GetPlaceDetails
+does the view has reserved parking,GetPlaceDetails
+how much is it to go to the top of empire state building,GetPlaceDetails
+give me the phone number of the place im going to today,GetPlaceDetails
+when is raos the most crowded,GetPlaceDetails
+whats the phone number of the dead rabbit,GetPlaceDetails
+is there a parking at my hotel,GetPlaceDetails
+how crowded is per se right now,GetPlaceDetails
+what time does pouring ribbons open tonight,GetPlaceDetails
+how crowded is the bar near my place,GetPlaceDetails
+is there wifi at the coffee place where im meeting with john,GetPlaceDetails
+whats the address of the place where i was yesterday night,GetPlaceDetails
+is the swan oyster depot cashonly,GetPlaceDetails
+is there a wifi at the smile,GetPlaceDetails
+can i pay by credit card at boom boom room,GetPlaceDetails
+whats the phone number of my hotel in chicago next month,GetPlaceDetails
+is pates et traditions cash only,GetPlaceDetails
+are there good tips to know when going to the modern,GetPlaceDetails
+whats the price range for a dinner at galli,GetPlaceDetails
+how far is frying pan from the highline ballroom,GetPlaceDetails
+who is playing tonight at the madison square garden,GetPlaceDetails
+whats planned at slims tonight,GetPlaceDetails
+show me photos of mondrian soho,GetPlaceDetails
+what time does employees only close,GetPlaceDetails
+i want to see photos of the place were going to tonight,GetPlaceDetails
+whats happening this week at smalls jazz club,GetPlaceDetails
+is there a childrens menu at the standard grill,GetPlaceDetails
+show me the butchers daughters menu,GetPlaceDetails
+give me the address of the biggest wallmart in boston area,GetPlaceDetails
+wheres irving plaza located,GetPlaceDetails
+how expensive is the best french restaurant near work,GetPlaceDetails
+how far is the nomad bar,GetPlaceDetails
+how much does it cost to go to disneyland,GetPlaceDetails
+how far am i from the guggenheim museum,GetPlaceDetails
+is there wifi at my airbnb in london next week end,GetPlaceDetails
+are there activities for children at hard rock cafe,GetPlaceDetails
+does the butchers daughter serve vegetarian food only,GetPlaceDetails
+can i park at gershwin theatre,GetPlaceDetails
+give me the address of state grill and bar,GetPlaceDetails
+show me the menu of the restaurant i booked for tonight,GetPlaceDetails
+what are the opening hours of please dont tell,GetPlaceDetails
+whats loris home address,GetPlaceDetails
+where can i get tickets for a concert at blue note,GetPlaceDetails
+are there some tips to know when going to battery park,GetPlaceDetails
+how much is a dinner at la chine,GetPlaceDetails
+give me steves address in manhattan,GetPlaceDetails
+does cafe gitane have wifi,GetPlaceDetails
+whats todays menu at the water club,GetPlaceDetails
+when is it the quietest at good luck bar,GetPlaceDetails
+is there valet parking at kang ho dong baekjeong,GetPlaceDetails
+show me the cheapest cocktail bar near the hotel my sister stays in,SearchPlace
+find me a restaurant similar to the one i went to yesterday evening,SearchPlace
+show me the closest restaurants with all you can eat buffets,SearchPlace
+find me a stars restaurant in los angeles,SearchPlace
+i want to eat some fried chicken any suggestions,SearchPlace
+whats the closest pizza restaurant around here,SearchPlace
+show me the top french restaurants in manhattan,SearchPlace
+where can i eat the best burger in soho,SearchPlace
+show me veggie restaurants nearby,SearchPlace
+find me a salad bar i can go to for my lunch meeting,SearchPlace
+whats the best irish pub in hells kitchen,SearchPlace
+find a store near sias place where i can buy champagne,SearchPlace
+is there a place similar to per se in williamsburg,SearchPlace
+find the top family attractions in hollywood not far from angies place,SearchPlace
+find the best restaurants near my airbnb that serve brunch all day,SearchPlace
+find me a romantic restaurant that serves good expensive wine near my girlfriends work,SearchPlace
+show me the best museums to visit near my london airbnb,SearchPlace
+find me a brunch spot in lower manhattan,SearchPlace
+find me a coffee place similar to starbucks that has gluten free food,SearchPlace
+find me the cheapest seafood restaurant near the golden bridge,SearchPlace
+find me a place that sells burritos in south harlem,SearchPlace
+what are the fanciest clubs in new york,SearchPlace
+where is the nearest starbucks,SearchPlace
+find me a good expensive japanese restaurant near work,SearchPlace
+find a good fried chicken restaurant that is not a fast food,SearchPlace
+find me the closest theatre for tonight,SearchPlace
+show me the parks with swings and pony rides around my aunts place,SearchPlace
+find me the finest sushi restaurant in the area of my next meeting,SearchPlace
+find me a table for four for dinner tonight,BookRestaurant
+book a table for todays lunch at eggys diner for people,BookRestaurant
+book a table at a restaurant near times square for people tomorrow night,BookRestaurant
+book a table for friday pm for people at katzs delicatessen,BookRestaurant
+book a table at joans on third for my family reunion on saturday,BookRestaurant
+id like a table in a peaceful restaurant around times square,BookRestaurant
+book a table at seven hills for people with a nice view,BookRestaurant
+book a table for people at mr donahues for tomorrows lunch,BookRestaurant
+book a restaurant for near my morning meeting tomorrow at pm,BookRestaurant
+i want reservations to grab brunch for in hells kitchen tomorrow,BookRestaurant
+book a table for sophie and me at the red lobster tonight,BookRestaurant
+book a table for people at a restaurant that serve tapas and wine for tonight,BookRestaurant
+book a table near my london hotel next wednesday evening,BookRestaurant
+book me a table for pm at a restaurant with wifi near my airbnb,BookRestaurant
+figure out if i can get a reservation at ma peche after the concert,BookRestaurant
+book a table for four people at tapestry for pm tonight,BookRestaurant
+get me a spot at ippudo for lunch,BookRestaurant
+book a table at the best chinese restaurant in town for todays lunch,BookRestaurant
+book a restaurant for brunch next sunday,BookRestaurant
+book me a table for people at the sushi place next to the show tomorrow night,BookRestaurant
+make a reservation for people for todays lunch at daniel,BookRestaurant
+book a table for four people at mondrian soho for pm,BookRestaurant
+get me a table at din tai fung for the th of december at,BookRestaurant
+get me a table at a restaurant nearby that is not too crowded for tomorrow evening,BookRestaurant
+find me an outdoor table at five leaves for,BookRestaurant
+get me a table at delmonicos next monday at pm,BookRestaurant
+we are a party of people and we want to book a table at seven hills for sunset,BookRestaurant
+i need reservations at quince at,BookRestaurant
+make a reservation at delmonicos on saturday pm for people,BookRestaurant
+book a table at an italian restaurant nearby for dinner with people,BookRestaurant
+book a table at the nearest sushi restaurant for for pm,BookRestaurant
+book me a table for at delmonicos around pm this friday,BookRestaurant
+is there a table for boozy brunch at around nearby,BookRestaurant
+need a table for lunch to eat steak near penn station,BookRestaurant
+get me a table at a restaurant near emilys place for tomorrow pm,BookRestaurant
+book a table for people at the restaurant im used to going to every week,BookRestaurant
+make a reservation for breakfast at batter berries tomorrow,BookRestaurant
+get me a place near chelsea with good brunch cocktails tomorrow at,BookRestaurant
+book a table for two people at a restaurant near work,BookRestaurant
+table for a group of near west village tomorrow go,BookRestaurant
+i want a reservation for at alinea,BookRestaurant
+make a reservation for people for todays lunch at a starbucks nearby,BookRestaurant
+get me a table at a good deli near mission dolores park for lunch,BookRestaurant
+please book a table at delmonicos this evening for at pm,BookRestaurant
+i need a reservation for five people at galli for friday night,BookRestaurant
+can you make a reservation at a lebanese restaurant nearby for lunch party of,BookRestaurant
+see if theres a table outside for noon at that fried chicken restaurant i like,BookRestaurant
+book a table at chops lobster bar for people at pm,BookRestaurant
+i want to find a reservation at an old red sauce joint at,BookRestaurant
+book a table for people at the restaurant i went to last week,BookRestaurant
+make a reservation for at the finest restaurant in the area where i was yesterday afternoon,BookRestaurant
+i want a table in a good japanese restaurant near trump tower,BookRestaurant
+table for two at nobu new york tonight,BookRestaurant
+book a table at the standard grill for four people for the day after tomorrow at pm,BookRestaurant
+book for people at per se for tuesday evening,BookRestaurant
+i want a table for friday pm for people at katzs delicatessen,BookRestaurant
+need a table for,BookRestaurant
+i want a reservation to get drinks after class tomorrow for,BookRestaurant
+book a table at an american restaurant for thanksgiving,BookRestaurant
+book a table at galli for people tonight,BookRestaurant
+book for at nobu for tomorrow evening,BookRestaurant
+book a table for four people at la chine for the th at pm,BookRestaurant
+book a table at saddle peak lodge for my diner with friends tonight,BookRestaurant
+can i have a table at the russian tea room for pm,BookRestaurant
+book a table for at tavern on the green for pm,BookRestaurant
+need a table for in hours,BookRestaurant
+book a table for me and my girlfriend in a romantic restaurant for valentines day,BookRestaurant
+need a reservation for brunch for in williamsburg near the bridge,BookRestaurant
+book me and my sister a spot at the milk bar place near the hotel she stays at in midtown,BookRestaurant
+book me a table for at delmonicos,BookRestaurant
+get a taxi to emmits irish pub,RequestRide
+get me a ride to the airport,RequestRide
+order a taxi for tomorrow am,RequestRide
+get a cab at my place right now,RequestRide
+order a taxi,RequestRide
+i need a taxi for to go to audrey and sams wedding,RequestRide
+book an uber to my next meeting,RequestRide
+i need a taxi to catch my flight tomorrow morning,RequestRide
+book a cab,RequestRide
+book a taxi to go to sebastians,RequestRide
+find a taxi,RequestRide
+i need a cab to go to work,RequestRide
+i need a taxi in minutes at th avenue,RequestRide
+book an uber to home,RequestRide
+can you find me a ride at this hour,RequestRide
+order a cab for people,RequestRide
+i need an uber right now,RequestRide
+book me a ride at my current location,RequestRide
+order a cab at my mothers place to go to the la stadium,RequestRide
+get an uber to go to my dinner tonight,RequestRide
+book a lyft car to go to greene street,RequestRide
+i want a taxi right now,RequestRide
+is there any uber around,RequestRide
+get a taxi to the nearest japanese restaurant,RequestRide
+order a cab at shake shack to go to the empire state building,RequestRide
+get a lyft car at scotts place,RequestRide
+how do i go to montauk avoiding tolls,GetDirections
+directions to disneyworld avoiding traffic,GetDirections
+show me the way to go to greene street,GetDirections
+give me directions to my parents place avoiding toll roads,GetDirections
+show me directions to my next meeting avoiding traffic,GetDirections
+quickest directions to go pick up my son at soccer practice,GetDirections
+show me directions to my yoga retreat avoiding the highway,GetDirections
+bicycling directions to millenium park,GetDirections
+directions to la guardia airport using waze,GetDirections
+cycling directions to chelsea market,GetDirections
+cycling directions to my surf lesson at am,GetDirections
+show me the fastest itinerary to my airbnb on a friday night,GetDirections
+driving directions to tavern on the green,GetDirections
+transit directions to barcelona wine bar,GetDirections
+navigate to palo alto avoiding traffic,GetDirections
+directions to jfk airport at am,GetDirections
+how do i go back home,GetDirections
+walking directions to my christmas party with citymapper,GetDirections
+get me directions to johns place if i leave at pm,GetDirections
+walking directions from home to my halloween party stopping by a wine store,GetDirections
+directions to tulsa with road,GetDirections
+show me the way to go to work,GetDirections
+give me transit directions from grand central to brooklyn bridge,GetDirections
+navigate me to empire state building using the shortest way,GetDirections
+show me walking directions to moma,GetDirections
+get me directions to las vegas avoiding toll roads,GetDirections
+show me directions to jersey city avoiding the highway,GetDirections
+show me the directions from the la county museum to santa monica,GetDirections
+directions to my beach house avoiding tolls,GetDirections
+show me directions to my hotel,GetDirections
+show me the fastest itinerary to go to williamsburg,GetDirections
+fastest way to go to my next meeting,GetDirections
+directions to joes pub,GetDirections
+i want to go to boston with the quickest itinerary,GetDirections
+show me the way to rands birthday party by car,GetDirections
+share my eta with mary jane,ShareETA
+send my eta to the guy im meeting with,ShareETA
+share my time of arrival with my airbnb host,ShareETA
+share my arrival time with juan carlos,ShareETA
+share my eta with jo,ShareETA
+share my estimated time of arrival with lily,ShareETA
+send my time of arrival to nina,ShareETA
+tell my friends what time ill get there,ShareETA
+share with franz my eta,ShareETA
+send a message to john to tell him when i get there,ShareETA
+send my eta to my girlfriend,ShareETA
+tell valery how long its gonna take to join her,ShareETA
+share my eta with the guy who just called me,ShareETA
+share my eta,ShareETA
+share my eta with my data scientist,ShareETA
+share my estimated time of arrival with my mother,ShareETA
+send a message to michael with my eta,ShareETA
+share my eta with the snips team,ShareETA
+send my eta to the girl im supposed to have dinner with,ShareETA
+send a message to montgomery with my arrival time,ShareETA
+send my eta to the guests of my apartment,ShareETA
+send a message to my boss with my eta,ShareETA
+should i expect traffic from here to kennedy international airport,GetTrafficInformation
+any traffic problems to go to my dinner,GetTrafficInformation
+any accidents from my airbnb to golden gate bridge,GetTrafficInformation
+is there traffic from work to gym,GetTrafficInformation
+is there traffic on my way to the gym,GetTrafficInformation
+hows traffic to go to my hotel,GetTrafficInformation
+hows the road on the th avenue,GetTrafficInformation
+i want to know if there is traffic to go to my upcoming meeting,GetTrafficInformation
+is there traffic jam on th avenue,GetTrafficInformation
+any accidents to expect to go to my cousins place,GetTrafficInformation
+hows the traffic from here to jos place,GetTrafficInformation
+is there traffic on th avenue and west th street,GetTrafficInformation
+shoud i expect traffic between broadway and prince street,GetTrafficInformation
+is there traffic on the us portion im going to take to go to my client meeting,GetTrafficInformation
+are there any accidents from home to work,GetTrafficInformation
+should i expect any traffic to go meet my friends tonight,GetTrafficInformation
+is there traffic jam from here to brooklyn bridge,GetTrafficInformation
+hows the traffic from here to central park,GetTrafficInformation
+is the road to work congested,GetTrafficInformation
+is there any traffic on us,GetTrafficInformation
+show me the forecast for new orleans,GetWeather
+will it be cloudy at my facebook event,GetWeather
+whats the weather like at my parents,GetWeather
+is the weather good for a walk today,GetWeather
+is it cold outside,GetWeather
+is it going to rain tomorrow,GetWeather
+whats the weather like at jos place right now,GetWeather
+can i walk to my next meeting,GetWeather
+show me the weather forecast for my upcoming trip to los angeles,GetWeather
+will it rain in the next minutes,GetWeather
+whats the weather like in paris new york and chicago,GetWeather
+whats the weather forecast for the rest of the week,GetWeather
+whats the weather like from new york to boston,GetWeather
+how windy will it be tomorrow,GetWeather
+should i have an umbrella with me tomorrow,GetWeather
+what will the weather be like at jos place this afternoon,GetWeather
+can i go hiking this afternoon,GetWeather
+what is the temperature tomorrow morning,GetWeather
+is it cold outside,GetWeather
+should i take an umbrella to walk to my dinner,GetWeather
+what will the weather be like from home to jos place,GetWeather
+whats the weather like in days,GetWeather
+what will the weather be like from am to pm in central park,GetWeather
+what will the weather be like tomorrow morning,GetWeather
+can i take my bike to go to work today,GetWeather
+what will the weather be like in london next week,GetWeather
+is it windy today,GetWeather
+whats the weather like at work,GetWeather
+is it going to be sunny next week,GetWeather
+i want the weather in paris,GetWeather
+it is a beautiful day for a walk,GetWeather
+whats it like outside,GetWeather
+what will the weather be like when i land in paris,GetWeather
+is it raining right now,GetWeather
+what will the weather be like at my airbnb this week end,GetWeather
+whats the weather like in bordeaux,GetWeather
+whats the weather like near my upcoming event,GetWeather
+will it rain tomorrow near my all day event,GetWeather
+i need the weather at jos place around pm,GetWeather
+what will the weather be like when i get out of my afternoon meeting,GetWeather
+show me the forecast for my upcoming weekend,GetWeather
+should i take a rain coat today,GetWeather

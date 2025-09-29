@@ -1,0 +1,34 @@
+text,intent
+need a table for in hours,BookRestaurant
+order a cab at my mothers place to go to the la stadium,RequestRide
+navigate to palo alto avoiding traffic,GetDirections
+please book a table at delmonicos this evening for at pm,BookRestaurant
+what is the closest theatre between belasco theatre and majestic theatre,ComparePlaces
+send a message to montgomery with my arrival time,ShareETA
+where is the nearest starbucks,SearchPlace
+does the butchers daughter serve vegetarian food only,GetPlaceDetails
+whats the weather forecast for the rest of the week,GetWeather
+share my location with jo until pm,ShareCurrentLocation
+order a cab at shake shack to go to the empire state building,RequestRide
+whats the weather like at work,GetWeather
+how much is it to go to the top of empire state building,GetPlaceDetails
+any accidents from my airbnb to golden gate bridge,GetTrafficInformation
+show me directions to my yoga retreat avoiding the highway,GetDirections
+i need the weather at jos place around pm,GetWeather
+i want a table in a good japanese restaurant near trump tower,BookRestaurant
+book a table for four people at la chine for the th at pm,BookRestaurant
+can i go hiking this afternoon,GetWeather
+show me the cheapest cocktail bar near the hotel my sister stays in,SearchPlace
+is there traffic jam on th avenue,GetTrafficInformation
+get me a place near chelsea with good brunch cocktails tomorrow at,BookRestaurant
+is there a wifi at the smile,GetPlaceDetails
+is there wifi at my airbnb in london next week end,GetPlaceDetails
+figure out if i can get a reservation at ma peche after the concert,BookRestaurant
+share my location with steve for days,ShareCurrentLocation
+id like to know whether galli is more expensive than raos,ComparePlaces
+show me walking directions to moma,GetDirections
+get me a table at a restaurant nearby that is not too crowded for tomorrow evening,BookRestaurant
+tell my friends what time ill get there,ShareETA
+when is it the quietest at good luck bar,GetPlaceDetails
+find a good fried chicken restaurant that is not a fast food,SearchPlace
+will it be cloudy at my facebook event,GetWeather
